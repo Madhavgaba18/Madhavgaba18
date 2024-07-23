@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **MERN Stack: MongoDB, Express.js, React, and Node.js Next.js: For building robust and scalable web applications PostgreSQL: For efficient and powerful database management Redux & Recoil: State management libraries for React applications**
+- 💬 Ask me about 
+- **MERN Stack: MongoDB, Express.js, React, and Node.js.**
+- **Next.js: For building robust and scalable web applications.**
+- **PostgreSQL: For efficient and powerful database management.**
+- **Redux & Recoil: State management libraries for React applications**
 
 - 📫 How to reach me **madhavgaba42@gmail.com**
 
