@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Madhav Gaba</h1>
 <h3 align="center">I'm a passionate and hardworking college student currently pursuing a degree in Computer Science. Alongside my studies, I have been gaining hands-on experience as a Software Development Engineer (SDE), which has helped me sharpen my skills and stay current with industry practices.</h3>
 
+<h4>Tech Stack</h4>
+<p>
+I have a strong foundation and self-taught expertise in the following technologies:
+
+MERN Stack: MongoDB, Express.js, React, and Node.js
+Next.js: For building robust and scalable web applications
+PostgreSQL: For efficient and powerful database management
+Redux & Recoil: State management libraries for React applications
+</p>
+
 - 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **madhavgaba42@gmail.com**
