@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Gaba</h1>
-<h3 align="center">About Me 👋 Hello! I'm a passionate and hardworking college student currently pursuing a degree in Computer Science. Alongside my studies, I have been gaining hands-on experience as a Software Development Engineer (SDE), which has helped me sharpen my skills and stay current with industry practices.</h3>
+<h3 align="center">About me - I'm a passionate and hardworking college student currently pursuing a degree in Computer Science. Alongside my studies, I have been gaining hands-on experience as a Software Development Engineer (SDE), which has helped me sharpen my skills and stay current with industry practices.</h3>
 
 - 🔭 I’m currently working on **Next.js, typescript, tailwind projects**
 
