@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about 
+<h3 align="left">💬 Ask me about:</h3> 
 - **MERN Stack: MongoDB, Express.js, React, and Node.js.**
 - **Next.js: For building robust and scalable web applications.**
 - **PostgreSQL: For efficient and powerful database management.**
